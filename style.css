@@ -1,0 +1,20 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: white;
+}
+#a
+{
+    background-color: white;
+    font-size: 19px;
+    padding: center;
+    margin: center;
+    color: black;
+}
